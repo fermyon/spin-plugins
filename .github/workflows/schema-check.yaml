@@ -1,0 +1,24 @@
+name: Check Plugin Json Schema
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+    paths:
+      - "json-schema/current.txt"
+      - "plugins/**"
+jobs:
+  test-schema:
+    name: Validate Plugin Manifest with JSON Schema
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v3
+      with:
+        node-version: 16
+      - name: Install ajv cli
+        run: npm install -g ajv-cli
+      - name: validate JSONs
+        run: |
+          export JSON_SCHEMA_VERSION=$(cat json-schema/version.txt)
+          ajv -s json-schema/spin-plugin-manifest-schema-$JSON_SCHEMA_VERSION.json -d "manifests/*/*.json"

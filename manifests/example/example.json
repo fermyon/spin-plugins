@@ -1,0 +1,22 @@
+{
+    "name": "example",
+    "description": "A description of the plugin.",
+    "homepage": "www.example.com",
+    "version": "0.2",
+    "spinCompatibility": ">=v0.4, <=5.0",
+    "license": "MIT",
+    "packages": [
+        {
+            "os": "linux",
+            "arch": "amd64",
+            "url": "https://raw.githubusercontent.com/org/spin-plugin-example/releases/download/v0.2.0/spin-plugin-example-v0.2.0-linux-amd64.tar.gz",
+            "sha256": "1de23g336b11d6694b27d9cb6056f6e6d3d702782c6a53d2aaf4a833b9588832"
+        },
+        {
+            "os": "osx",
+            "arch": "aarch64",
+            "url": "https://raw.githubusercontent.com/org/spin-plugin-example/releases/download/v0.2.0/spin-plugin-example-v0.2.0-macos-aarch64.tar.gz",
+            "sha256": "5baef2336b11d6694b27d9cb6056f6e6d3d702782c6a53d2aaf4a833b9577724"
+        }
+    ]
+}
