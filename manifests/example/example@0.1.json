@@ -10,13 +10,13 @@
             "os": "linux",
             "arch": "amd64",
             "url": "https://raw.githubusercontent.com/fermyon/spin-plugins/main/example/example.tar.gz",
-            "sha256": "015586db928fb24aac76add9166f91b979c6c2768b192272ed68d3946f56245f"
+            "sha256": "066731247be306f3ae4034b23d9c9c954139aa62d6ab334fc4615668c4b449e2"
         },
         {
             "os": "osx",
             "arch": "aarch64",
             "url": "https://raw.githubusercontent.com/fermyon/spin-plugins/main/example/example.tar.gz",
-            "sha256": "015586db928fb24aac76add9166f91b979c6c2768b192272ed68d3946f56245f"
+            "sha256": "066731247be306f3ae4034b23d9c9c954139aa62d6ab334fc4615668c4b449e2"
         }
     ]
 }
