@@ -9,14 +9,14 @@
         {
             "os": "linux",
             "arch": "amd64",
-            "url": "https://raw.githubusercontent.com/org/spin-plugin-example/releases/download/v0.1.0/spin-plugin-example-v0.1.0-linux-amd64.tar.gz",
-            "sha256": "32b7a2336b11d6694b27d9cb6056f6e6d3d702782c6a53d2aaf4a833b9599941"
+            "url": "https://raw.githubusercontent.com/fermyon/spin-plugins/main/example/example.tar.gz",
+            "sha256": "015586db928fb24aac76add9166f91b979c6c2768b192272ed68d3946f56245f"
         },
         {
             "os": "osx",
             "arch": "aarch64",
-            "url": "https://raw.githubusercontent.com/org/spin-plugin-example/releases/download/v0.1.0/spin-plugin-example-v0.1.0-macos-aarch64.tar.gz",
-            "sha256": "221ff2336b11d6694b27d9cb6056f6e6d3d702782c6a53d2aaf4a833b94923f4"
+            "url": "https://raw.githubusercontent.com/fermyon/spin-plugins/main/example/example.tar.gz",
+            "sha256": "015586db928fb24aac76add9166f91b979c6c2768b192272ed68d3946f56245f"
         }
     ]
 }
