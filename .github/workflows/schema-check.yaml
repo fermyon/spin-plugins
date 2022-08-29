@@ -14,8 +14,8 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - uses: actions/setup-node@v3
-      with:
-        node-version: 16
+        with:
+          node-version: 16
       - name: Install ajv cli
         run: npm install -g ajv-cli
       - name: validate JSONs
