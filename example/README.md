@@ -8,6 +8,6 @@ It is referenced in the [example.json manifest](../manifests/example/example.jso
 
 To recreate:
 
-1. Package and zip it by running `tar czvf example.tar.gz example.sh example.license`.
+1. Package and zip it by running `tar czvf example.tar.gz example example.license`.
 2. Get checksum: `shasum -a 256 example.tar.gz`.
 3. Modify plugin manifest to use the correct checksum.
