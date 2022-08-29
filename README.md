@@ -1,6 +1,6 @@
 # Spin Plugin Manifests
 
-This repository acts as an index for hosting spin-maintained and community-maintained manifests for Spin plugins. These plugins can be installed via the Spin CLI with the `spin plugin install $name` command. By default, Spin will look for a plugin manifest named `$name.json` in the this repository; however, Spin can also directed to use a local manifest or one at a different remote location using the `--file` or `--url` flag, respectively.
+This repository acts as an index for hosting spin-maintained and community-maintained manifests for Spin plugins. These plugins can be installed via the Spin CLI with the `spin plugin install $name` command. By default, Spin will look for a plugin manifest named `$name.json` in this repository; however, Spin can also be directed to use a local manifest or one at a different remote location using the `--file` or `--url` flag, respectively.
 
 ## What is a Spin plugin manifest?
 
