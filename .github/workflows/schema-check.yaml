@@ -7,12 +7,13 @@ on:
     paths:
       - "json-schema/current.txt"
       - "plugins/**"
+      - .github/workflows/schema-check.yaml
 jobs:
   test-schema:
     name: Validate Plugin Manifest with JSON Schema
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
       - uses: actions/setup-node@v3
         with:
           node-version: 16
@@ -21,4 +22,4 @@ jobs:
       - name: validate JSONs
         run: |
           export JSON_SCHEMA_VERSION=$(cat json-schema/version.txt)
-          ajv -s json-schema/spin-plugin-manifest-schema-$JSON_SCHEMA_VERSION.json -d "manifests/*/*.json"
+          ajv -s json-schema/spin-plugin-manifest-schema-$JSON_SCHEMA_VERSION.json -d "manifests/*/*.json" --spec=draft2019
