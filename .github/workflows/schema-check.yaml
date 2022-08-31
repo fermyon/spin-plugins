@@ -6,7 +6,7 @@ on:
     branches: [main]
     paths:
       - "json-schema/current.txt"
-      - "plugins/**"
+      - "manifests/**"
       - .github/workflows/schema-check.yaml
 jobs:
   test-schema:
