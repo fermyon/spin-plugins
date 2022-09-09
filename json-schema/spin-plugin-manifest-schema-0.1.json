@@ -54,7 +54,9 @@
                     "arch": {
                         "type": "string",
                         "enum": [
-                            "amd64",
+                            "x86",
+                            "x86_64",
+                            "arm",
                             "aarch64"
                         ]
                     },
