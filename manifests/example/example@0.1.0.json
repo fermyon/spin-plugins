@@ -3,7 +3,7 @@
     "description": "A description of the plugin.",
     "homepage": "www.example.com",
     "version": "0.1.0",
-    "spinCompatibility": "=0.4",
+    "spinCompatibility": ">=0.4",
     "license": "Apache-2.0",
     "packages": [
         {
