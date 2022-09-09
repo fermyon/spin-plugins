@@ -13,7 +13,7 @@
             "sha256": "7827de0de5e1f5660b9685a43c8011549c1bd41dd52c458dc03ef6d33704ea16"
         },
         {
-            "os": "osx",
+            "os": "macos",
             "arch": "aarch64",
             "url": "https://raw.githubusercontent.com/fermyon/spin-plugins/main/example/example.tar.gz",
             "sha256": "7827de0de5e1f5660b9685a43c8011549c1bd41dd52c458dc03ef6d33704ea16"
