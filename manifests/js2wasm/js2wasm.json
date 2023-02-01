@@ -3,7 +3,7 @@
   "description": "A plugin to convert js files to Spin compatible modules",
   "homepage": "https://github.com/fermyon/spin-js-sdk",
   "version": "0.3.0",
-  "spinCompatibility": ">=0.6",
+  "spinCompatibility": ">=0.7",
   "license": "Apache-2.0",
   "packages": [
     {
