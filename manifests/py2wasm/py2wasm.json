@@ -2,39 +2,39 @@
   "name": "py2wasm",
   "description": "A plugin to convert Python applications to Spin compatible modules",
   "homepage": "https://github.com/fermyon/spin-python-sdk",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "spinCompatibility": ">=0.9",
   "license": "Apache-2.0",
   "packages": [
     {
       "os": "linux",
       "arch": "amd64",
-      "url": "https://github.com/fermyon/spin-python-sdk/releases/download/v0.1.1/py2wasm-v0.1.1-linux-amd64.tar.gz",
-      "sha256": "c8b0b6420d505e4783bd961b33f7b10214f4bd9c49f0af63d04db3fa407bb592"
+      "url": "https://github.com/fermyon/spin-python-sdk/releases/download/v0.2.0/py2wasm-v0.2.0-linux-amd64.tar.gz",
+      "sha256": "d2a5b517b4f2d6b54a4ef59832ff92481918ebeeace632eab3c30341510b1e4f"
     },
     {
       "os": "linux",
       "arch": "aarch64",
-      "url": "https://github.com/fermyon/spin-python-sdk/releases/download/v0.1.1/py2wasm-v0.1.1-linux-aarch64.tar.gz",
-      "sha256": "6ea517f666e6f6691f16bb4a40a2237115ea38918c1dfc5b6900875d1c875214"
+      "url": "https://github.com/fermyon/spin-python-sdk/releases/download/v0.2.0/py2wasm-v0.2.0-linux-aarch64.tar.gz",
+      "sha256": "9e16b775eee346fa427d61e04a22fc66ee3c6ca46625c376dbec456405327f4f"
     },
     {
       "os": "macos",
       "arch": "aarch64",
-      "url": "https://github.com/fermyon/spin-python-sdk/releases/download/v0.1.1/py2wasm-v0.1.1-macos-aarch64.tar.gz",
-      "sha256": "900812294996eb74a528b5b75261a39202c9cd54ddb05b8e84a068021ca797ab"
+      "url": "https://github.com/fermyon/spin-python-sdk/releases/download/v0.2.0/py2wasm-v0.2.0-macos-aarch64.tar.gz",
+      "sha256": "8877b26ab0ed724b1b8138f152f1aeebc02f27ea2d8aeb3b04d06fff72b659d6"
     },
     {
       "os": "macos",
       "arch": "amd64",
-      "url": "https://github.com/fermyon/spin-python-sdk/releases/download/v0.1.1/py2wasm-v0.1.1-macos-amd64.tar.gz",
-      "sha256": "7c0757815ba13bb6293c1402dd1b97a258b4181f3b62b24299f72def2445c931"
+      "url": "https://github.com/fermyon/spin-python-sdk/releases/download/v0.2.0/py2wasm-v0.2.0-macos-amd64.tar.gz",
+      "sha256": "74bc261afea497994d27f48099b6d478998dd9941c5cd45e58e7a2a5e53216c1"
     },
     {
       "os": "windows",
       "arch": "amd64",
-      "url": "https://github.com/fermyon/spin-python-sdk/releases/download/v0.1.1/py2wasm-v0.1.1-windows-amd64.tar.gz",
-      "sha256": "d0ee3d9ebd833f3b8e37f8b61582197a2a73d3679bec4f3de7c7817f4bb11e77"
+      "url": "https://github.com/fermyon/spin-python-sdk/releases/download/v0.2.0/py2wasm-v0.2.0-windows-amd64.tar.gz",
+      "sha256": "cedd264456fc3040be3b05e0ce19ea07977b9d4b4fec02d81a4ffd7b8a871a9b"
     }
   ]
 }
