@@ -1,0 +1,40 @@
+{
+  "name": "js2wasm",
+  "description": "A plugin to convert js files to Spin compatible modules",
+  "homepage": "https://github.com/fermyon/spin-js-sdk",
+  "version": "0.4.0",
+  "spinCompatibility": ">=0.9",
+  "license": "Apache-2.0",
+  "packages": [
+    {
+      "os": "linux",
+      "arch": "amd64",
+      "url": "https://github.com/fermyon/spin-js-sdk/releases/download/v0.4.0/js2wasm-v0.4.0-linux-amd64.tar.gz",
+      "sha256": "7b021bcf9398863305fec7d921625d9efa37eaef21a8282271b780a9042e6a80"
+    },
+    {
+      "os": "linux",
+      "arch": "aarch64",
+      "url": "https://github.com/fermyon/spin-js-sdk/releases/download/v0.4.0/js2wasm-v0.4.0-linux-aarch64.tar.gz",
+      "sha256": "5ee58b850b04b0ef45f928c6dbe3a66e8956e72c1632a57f5f355b24ba8c3d07"
+    },
+    {
+      "os": "macos",
+      "arch": "aarch64",
+      "url": "https://github.com/fermyon/spin-js-sdk/releases/download/v0.4.0/js2wasm-v0.4.0-macos-aarch64.tar.gz",
+      "sha256": "ea7ad9c8c48f407309b09a4f29f25095af952d1cb7875972e813155c8922054d"
+    },
+    {
+      "os": "macos",
+      "arch": "amd64",
+      "url": "https://github.com/fermyon/spin-js-sdk/releases/download/v0.4.0/js2wasm-v0.4.0-macos-amd64.tar.gz",
+      "sha256": "63a29d9828c6484988f74ffc3393fd3a9b821c050be951dd9703522131e4418c"
+    },
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "url": "https://github.com/fermyon/spin-js-sdk/releases/download/v0.4.0/js2wasm-v0.4.0-windows-amd64.tar.gz",
+      "sha256": "a286b1dd67498016bf540e9dbb34ad8877e3dee141bd8a3f53c10c97a38dc2b1"
+    }
+  ]
+}
