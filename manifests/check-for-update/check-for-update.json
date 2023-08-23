@@ -1,0 +1,40 @@
+{
+    "name": "check-for-update",
+    "description": "Command to verify if you're using latest spin CLI or not.",
+    "homepage": "https://github.com/ThorstenHans/spin-plugin-check-for-update",
+    "version": "0.0.1",
+    "spinCompatibility": ">=0.4",
+    "license": "Apache-2.0",
+    "packages": [
+      {
+        "os": "linux",
+        "arch": "aarch64",
+        "url": "https://github.com/ThorstenHans/spin-plugin-check-for-update/releases/download/v0.0.1/check-for-update-v0.0.1-linux-aarch64.tar.gz",
+        "sha256": "28b283edfdf7534c7651fae05c880367d37eb1a1d27d35422bc25d108f86ef37"
+      },
+      {
+        "os": "linux",
+        "arch": "amd64",
+        "url": "https://github.com/ThorstenHans/spin-plugin-check-for-update/releases/download/v0.0.1/check-for-update-v0.0.1-linux-amd64.tar.gz",
+        "sha256": "1c9106547ee7290aff5289a7e3e7062e9c073492b92155c357c378f83714b196"
+      },
+      {
+        "os": "macos",
+        "arch": "aarch64",
+        "url": "https://github.com/ThorstenHans/spin-plugin-check-for-update/releases/download/v0.0.1/check-for-update-v0.0.1-macos-aarch64.tar.gz",
+        "sha256": "919fc5e33f193747317ef5c3f24a7e0e309b57e8f25f9df77ae214727679b778"
+      },
+      {
+        "os": "macos",
+        "arch": "amd64",
+        "url": "https://github.com/ThorstenHans/spin-plugin-check-for-update/releases/download/v0.0.1/check-for-update-v0.0.1-macos-amd64.tar.gz",
+        "sha256": "d44d7f84769b93bb2a3e1c0cae56cb37be30ea261ed6c8a2b98df2643f96f872"
+      },
+      {
+        "os": "windows",
+        "arch": "amd64",
+        "url": "https://github.com/ThorstenHans/spin-plugin-check-for-update/releases/download/v0.0.1/check-for-update-v0.0.1-windows-amd64.tar.gz",
+        "sha256": "d581eeaaa2dd00fa5ac6fc9ee517dd059a033471fd6a8ad3219085c246eab602"
+      }
+    ]
+}
