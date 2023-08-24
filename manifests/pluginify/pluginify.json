@@ -1,0 +1,38 @@
+{
+  "name": "pluginify",
+  "version": "0.5.0",
+  "spinCompatibility": ">=0.7",
+  "license": "Apache-2.0",
+  "packages": [
+    {
+      "os": "macos",
+      "arch": "amd64",
+      "url": "https://github.com/itowlson/spin-pluginify/releases/download/v0.5.0/pluginify-0.5.0-macos-x86_64.tar.gz",
+      "sha256": "eafa9a5f401c8249359b392a54f8a3977591992f79a75d0797d0cbc0e679de95"
+    },
+    {
+      "os": "linux",
+      "arch": "amd64",
+      "url": "https://github.com/itowlson/spin-pluginify/releases/download/v0.5.0/pluginify-0.5.0-linux-x86_64.tar.gz",
+      "sha256": "6862416fd1df8335edee3e8e6106fa4bff923e34360457a3fd47537a56517c57"
+    },
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "url": "https://github.com/itowlson/spin-pluginify/releases/download/v0.5.0/pluginify-0.5.0-windows-x86_64.tar.gz",
+      "sha256": "5d6d1e0ca8508590c234679ee8e256b7960e5a68daaa6390f4d0cc05a880a584"
+    },
+    {
+      "os": "linux",
+      "arch": "aarch64",
+      "url": "https://github.com/itowlson/spin-pluginify/releases/download/v0.5.0/pluginify-0.5.0-linux-aarch64.tar.gz",
+      "sha256": "7bba91de8e247bf17b8908d2b7132345553bc9b9474956ebe2e57c0d905b66d3"
+    },
+    {
+      "os": "macos",
+      "arch": "aarch64",
+      "url": "https://github.com/itowlson/spin-pluginify/releases/download/v0.5.0/pluginify-0.5.0-macos-aarch64.tar.gz",
+      "sha256": "0a8f3a36812806a080e5864dbec317099b74a37dd9a2f965f79aaba5a1c0bf55"
+    }
+  ]
+}
