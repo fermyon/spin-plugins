@@ -1,0 +1,40 @@
+{
+  "name": "cloud-gpu",
+  "description": "A plugin to enable local AI development using cloud gpus.",
+  "homepage": "https://developer.fermyon.com",
+  "version": "0.1.0",
+  "spinCompatibility": ">=1.5",
+  "license": "Apache-2.0",
+  "packages": [
+    {
+      "os": "linux",
+      "arch": "amd64",
+      "url": "https://github.com/fermyon/spin-cloud-gpu/releases/download/v0.1.0/cloud-gpu-v0.1.0-linux-amd64.tar.gz",
+      "sha256": "80ff9281c04232c4daa4c064cdba7d242d21c670fd4d36f3b3ce06d784a94faa"
+    },
+    {
+      "os": "linux",
+      "arch": "aarch64",
+      "url": "https://github.com/fermyon/spin-cloud-gpu/releases/download/v0.1.0/cloud-gpu-v0.1.0-linux-aarch64.tar.gz",
+      "sha256": "81166dc9b73f4bd6e1ca6a24a60a335037cdb5578a99a5c429f3b85d42b0e839"
+    },
+    {
+      "os": "macos",
+      "arch": "aarch64",
+      "url": "https://github.com/fermyon/spin-cloud-gpu/releases/download/v0.1.0/cloud-gpu-v0.1.0-macos-aarch64.tar.gz",
+      "sha256": "0ef73931d6b003214c233cbc052cb8fce172f3f8d3f600e72654470163be6ff0"
+    },
+    {
+      "os": "macos",
+      "arch": "amd64",
+      "url": "https://github.com/fermyon/spin-cloud-gpu/releases/download/v0.1.0/cloud-gpu-v0.1.0-macos-amd64.tar.gz",
+      "sha256": "47b9668695a48eae55db0fd6c6286f56d188350df47d14db65b96662e7dca14c"
+    },
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "url": "https://github.com/fermyon/spin-cloud-gpu/releases/download/v0.1.0/cloud-gpu-v0.1.0-windows-amd64.tar.gz",
+      "sha256": "342ed6bb10209d13ee4bb74b287d5a087c6b683e9b8fcdf6429ce400d1e991da"
+    }
+  ]
+}
