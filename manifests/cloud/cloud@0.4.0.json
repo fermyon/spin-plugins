@@ -1,0 +1,40 @@
+{
+  "name": "cloud",
+  "description": "Commands for publishing applications to the Fermyon Cloud.",
+  "homepage": "https://github.com/fermyon/cloud-plugin",
+  "version": "0.4.0",
+  "spinCompatibility": ">=1.3",
+  "license": "Apache-2.0",
+  "packages": [
+    {
+      "os": "linux",
+      "arch": "amd64",
+      "url": "https://github.com/fermyon/cloud-plugin/releases/download/v0.4.0/cloud-v0.4.0-linux-amd64.tar.gz",
+      "sha256": "207ff7c2004a5f4a5af1776a8419d292668fd4492229c8fcd4cf88b7f2c2afd0"
+    },
+    {
+      "os": "linux",
+      "arch": "aarch64",
+      "url": "https://github.com/fermyon/cloud-plugin/releases/download/v0.4.0/cloud-v0.4.0-linux-aarch64.tar.gz",
+      "sha256": "00e92d283a1be215d33fe2057a01ee659edfdbd68da626f8f6aeea47acac0fe7"
+    },
+    {
+      "os": "macos",
+      "arch": "aarch64",
+      "url": "https://github.com/fermyon/cloud-plugin/releases/download/v0.4.0/cloud-v0.4.0-macos-aarch64.tar.gz",
+      "sha256": "746fff49a24d1a9337bb4b958520c7ca49a3fef66c64444f03a3e8c34406b582"
+    },
+    {
+      "os": "macos",
+      "arch": "amd64",
+      "url": "https://github.com/fermyon/cloud-plugin/releases/download/v0.4.0/cloud-v0.4.0-macos-amd64.tar.gz",
+      "sha256": "54ed570ccec0fb2c1990e91f0d4dc8ebb2bc37ae5b56d1be6f25762a4dd5ee97"
+    },
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "url": "https://github.com/fermyon/cloud-plugin/releases/download/v0.4.0/cloud-v0.4.0-windows-amd64.tar.gz",
+      "sha256": "6532f3b19d88131e8c42b4c8a359b142d8640bc660bb58a9960cbe7a5a0bf890"
+    }
+  ]
+}
