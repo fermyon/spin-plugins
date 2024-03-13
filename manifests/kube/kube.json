@@ -3,7 +3,7 @@
   "description": "Commands for publishing applications to Kubernetes",
   "homepage": "https://github.com/spinkube/spin-plugin-kube",
   "version": "0.1.0",
-  "spinCompatibility": ">=1.5",
+  "spinCompatibility": ">=2.3.1",
   "license": "Apache-2.0",
   "packages": [
     {
