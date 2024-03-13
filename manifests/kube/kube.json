@@ -1,6 +1,6 @@
 {
   "name": "kube",
-  "description": "Commands for publishing applications to Kubernetes",
+  "description": "A plugin to manage Spin apps in Kubernetes",
   "homepage": "https://github.com/spinkube/spin-plugin-kube",
   "version": "0.1.0",
   "spinCompatibility": ">=2.3.1",
