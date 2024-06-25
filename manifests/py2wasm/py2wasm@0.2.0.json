@@ -1,6 +1,6 @@
 {
   "name": "py2wasm",
-  "description": "A plugin to convert Python applications to Spin compatible modules",
+  "description": "A plugin to convert Python applications to Spin compatible modules. Note: This plugin has been deprecated in favour of the newer SDK based on componentize-py. To move to the last SDK, uninstall the plugin and visit https://developer.fermyon.com/spin/v2/python-components  ",
   "homepage": "https://github.com/fermyon/spin-python-sdk",
   "version": "0.2.0",
   "spinCompatibility": ">=0.9",
