@@ -1,5 +1,7 @@
 {
     "name": "otel",
+    "description": "A plugin to make working with OTel in Spin easy",
+    "homepage": "https://github.com/fermyon/otel-plugin",
     "version": "0.1.2",
     "spinCompatibility": ">=2.5",
     "license": "Apache-2.0",
