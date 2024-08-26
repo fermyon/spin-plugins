@@ -1,0 +1,34 @@
+{
+    "name": "verman",
+    "description": "A plugin to make it easy to install and switch between versions of Spin",
+    "homepage": "https://github.com/fermyon/verman-plugin",
+    "version": "0.1.0",
+    "spinCompatibility": ">=1.0",
+    "license": "Apache-2.0",
+    "packages": [
+      {
+        "os": "linux",
+        "arch": "amd64",
+        "url": "https://github.com/fermyon/verman-plugin/releases/download/v0.1.0/verman-0.1.0-linux-amd64.tar.gz",
+        "sha256": "a5508338189a063ef455f4aa808f6328fb578f59aad58a6b8efb634da1c78647"
+      },
+      {
+        "os": "macos",
+        "arch": "aarch64",
+        "url": "https://github.com/fermyon/verman-plugin/releases/download/v0.1.0/verman-0.1.0-macos-aarch64.tar.gz",
+        "sha256": "150819ca20a6ee096614cd50e1ccc5819d5f95bb7520b3e0aa3f33d15a05e4eb"
+      },
+      {
+        "os": "macos",
+        "arch": "amd64",
+        "url": "https://github.com/fermyon/verman-plugin/releases/download/v0.1.0/verman-0.1.0-macos-amd64.tar.gz",
+        "sha256": "0a9ca6688445056467feb467f8d687ab2fb81d38d541eb827a9d58f579e20e99"
+      },
+      {
+        "os": "linux",
+        "arch": "aarch64",
+        "url": "https://github.com/fermyon/verman-plugin/releases/download/v0.1.0/verman-0.1.0-linux-aarch64.tar.gz",
+        "sha256": "bbb89b8b77323baa9ff0c36b4af2966cfa964e1ddab48ae0a989af7c53542cc2"
+      }
+    ]
+  }
