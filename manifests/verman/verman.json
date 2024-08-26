@@ -1,6 +1,6 @@
 {
     "name": "verman",
-    "description": "A plugin to make it easy to switch between versions of Spin",
+    "description": "A plugin to make it easy to install and switch between versions of Spin",
     "homepage": "https://github.com/fermyon/verman-plugin",
     "version": "0.1.0",
     "spinCompatibility": ">=1.0",
