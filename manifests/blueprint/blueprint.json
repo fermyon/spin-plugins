@@ -1,0 +1,34 @@
+{
+    "name": "blueprint",
+    "description": "A plugin that helps to visualize the different components within a Spin application.",
+    "homepage": "https://github.com/fermyon/blueprint-plugin",
+    "version": "0.1.0",
+    "spinCompatibility": ">=2.0",
+    "license": "Apache-2.0",
+    "packages": [
+      {
+        "os": "macos",
+        "arch": "aarch64",
+        "url": "https://github.com/fermyon/blueprint-plugin/releases/download/v0.1.0/blueprint-0.1.0-macos-aarch64.tar.gz",
+        "sha256": "41016380f4efa8a352cc4865132612bc4ca22971afb43b53ad5894a40cc39b70"
+      },
+      {
+        "os": "linux",
+        "arch": "amd64",
+        "url": "https://github.com/fermyon/blueprint-plugin/releases/download/v0.1.0/blueprint-0.1.0-linux-amd64.tar.gz",
+        "sha256": "430ae390520b10ad9a4c804d8030562fc0a6426e08f35249861ba1e3fe0dbdfd"
+      },
+      {
+        "os": "linux",
+        "arch": "aarch64",
+        "url": "https://github.com/fermyon/blueprint-plugin/releases/download/v0.1.0/blueprint-0.1.0-linux-aarch64.tar.gz",
+        "sha256": "81d1dd3057aa6738edc503f5cd7f99632dcff2c71fc8733effeaa54a2a44a980"
+      },
+      {
+        "os": "macos",
+        "arch": "amd64",
+        "url": "https://github.com/fermyon/blueprint-plugin/releases/download/v0.1.0/blueprint-0.1.0-macos-amd64.tar.gz",
+        "sha256": "aab5ae5adbeb03cd8406fc7756f456f3c5b8ead8983ef7cd467b8ada9a1e345e"
+      }
+    ]
+  }
