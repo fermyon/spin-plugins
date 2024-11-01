@@ -1,0 +1,39 @@
+{
+  "name": "trigger-kinesis",
+  "description": "A Spin trigger for Amazon Kinesis events",
+  "version": "0.2",
+  "spinCompatibility": ">=2.6",
+  "license": "Apache-2.0",
+  "packages": [
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "url": "https://github.com/ogghead/spin-trigger-kinesis/releases/download/v0.2.0/trigger-kinesis-0.2-windows-amd64.tar.gz",
+      "sha256": "5914b75d47f7a33adfc56d9b1c287efef8574cb1bbd50de471735c61d0f654ea"
+    },
+    {
+      "os": "macos",
+      "arch": "aarch64",
+      "url": "https://github.com/ogghead/spin-trigger-kinesis/releases/download/v0.2.0/trigger-kinesis-0.2-macos-aarch64.tar.gz",
+      "sha256": "80acb453ca22888e767c38df393f2cca54c6451ec27067cbfeb4e528b09ff550"
+    },
+    {
+      "os": "macos",
+      "arch": "amd64",
+      "url": "https://github.com/ogghead/spin-trigger-kinesis/releases/download/v0.2.0/trigger-kinesis-0.2-macos-amd64.tar.gz",
+      "sha256": "7a12507dbbb62b7916824427c38bcd43a1175a1f238f3faeca6b7886c5519da1"
+    },
+    {
+      "os": "linux",
+      "arch": "aarch64",
+      "url": "https://github.com/ogghead/spin-trigger-kinesis/releases/download/v0.2.0/trigger-kinesis-0.2-linux-aarch64.tar.gz",
+      "sha256": "d482a9756294636f19b255cecc7a4910445d0f6b58613d8f702bab36ae1cb4a1"
+    },
+    {
+      "os": "linux",
+      "arch": "amd64",
+      "url": "https://github.com/ogghead/spin-trigger-kinesis/releases/download/v0.2.0/trigger-kinesis-0.2-linux-amd64.tar.gz",
+      "sha256": "68576c26f051799eebf242bc7e0ce3eb2624dba178f4a273f51c58adbe668083"
+    }
+  ]
+}
