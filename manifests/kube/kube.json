@@ -1,23 +1,11 @@
 {
   "name": "kube",
-  "description": "A plugin to manage Spin apps in Kubernetes",
+  "description": "A plugin to manage spin apps",
   "homepage": "https://github.com/spinkube/spin-plugin-kube",
   "version": "0.2.0",
   "spinCompatibility": ">=2.3.1",
   "license": "Apache-2.0",
   "packages": [
-    {
-      "os": "macos",
-      "arch": "amd64",
-      "url": "https://github.com/spinkube/spin-plugin-kube/releases/download/v0.2.0/spin-plugin-kube-0.2.0-darwin-amd64.tar.gz",
-      "sha256": "43a59beb0dd7c6feaa40081affc94b5c7114a287a458fb63827e0d93d2a6decd"
-    },
-    {
-      "os": "macos",
-      "arch": "aarch64",
-      "url": "https://github.com/spinkube/spin-plugin-kube/releases/download/v0.2.0/spin-plugin-kube-0.2.0-darwin-arm64.tar.gz",
-      "sha256": "5b4aea84e08ba680dc10ddb261ff0f9857291d9257f8f9779ab0cbc4f30c4dd0"
-    },
     {
       "os": "linux",
       "arch": "amd64",
@@ -29,6 +17,18 @@
       "arch": "aarch64",
       "url": "https://github.com/spinkube/spin-plugin-kube/releases/download/v0.2.0/spin-plugin-kube-0.2.0-linux-arm64.tar.gz",
       "sha256": "c56d99c5736e530725cfbe849c55f94420a0cfde334ebd55c933a466115eefce"
+    },
+    {
+      "os": "macos",
+      "arch": "aarch64",
+      "url": "https://github.com/spinkube/spin-plugin-kube/releases/download/v0.2.0/spin-plugin-kube-0.2.0-darwin-arm64.tar.gz",
+      "sha256": "5b4aea84e08ba680dc10ddb261ff0f9857291d9257f8f9779ab0cbc4f30c4dd0"
+    },
+    {
+      "os": "macos",
+      "arch": "amd64",
+      "url": "https://github.com/spinkube/spin-plugin-kube/releases/download/v0.2.0/spin-plugin-kube-0.2.0-darwin-amd64.tar.gz",
+      "sha256": "43a59beb0dd7c6feaa40081affc94b5c7114a287a458fb63827e0d93d2a6decd"
     },
     {
       "os": "windows",
