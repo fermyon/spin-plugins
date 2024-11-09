@@ -2,33 +2,33 @@
   "name": "gh",
   "description": "Generates GitHub Actions for Spin Apps",
   "homepage": "https://github.com/fermyon/spin-gh-plugin",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "spinCompatibility": ">=2.0.0",
   "license": "Apache-2.0",
   "packages": [
     {
       "os": "linux",
       "arch": "aarch64",
-      "url": "https://github.com/fermyon/spin-github-plugin/releases/download/v0.0.4/gh-0.0.4-linux-aarch64.tar.gz",
-      "sha256": "c9240d7f7f2beba21b457981097d1d4435ad3f7979204b9c5493bd9ae1556474"
+      "url": "https://github.com/fermyon/spin-gh-plugin/releases/download/v0.0.5/gh-0.0.5-linux-aarch64.tar.gz",
+      "sha256": "aa9d31af478a4b61e93579a291e57b5d9914b47989123d4bfabb53eb6bb96be9"
     },
     {
       "os": "macos",
       "arch": "amd64",
-      "url": "https://github.com/fermyon/spin-github-plugin/releases/download/v0.0.4/gh-0.0.4-macos-amd64.tar.gz",
-      "sha256": "22906140fce77cd52ad5b07081cd0180ef4961098ef28a3fa1091410d27ced10"
+      "url": "https://github.com/fermyon/spin-gh-plugin/releases/download/v0.0.5/gh-0.0.5-macos-amd64.tar.gz",
+      "sha256": "8a83a8b96b7c2741451c90a46b1c3a400cbd4fa4a1f46f9081810ac47ae56892"
     },
     {
       "os": "macos",
       "arch": "aarch64",
-      "url": "https://github.com/fermyon/spin-github-plugin/releases/download/v0.0.4/gh-0.0.4-macos-aarch64.tar.gz",
-      "sha256": "109768b80b940fe52f6249841cb90edb9f7ad26798c974587e8816c2b124387d"
+      "url": "https://github.com/fermyon/spin-gh-plugin/releases/download/v0.0.5/gh-0.0.5-macos-aarch64.tar.gz",
+      "sha256": "e1ae5ae19b5adde03dcf6f4e63be357f6ee933d2a476727f14d48f2b4f46137f"
     },
     {
       "os": "linux",
       "arch": "amd64",
-      "url": "https://github.com/fermyon/spin-github-plugin/releases/download/v0.0.4/gh-0.0.4-linux-amd64.tar.gz",
-      "sha256": "f6dcec858761ddfe57e84237c0603c85cb64eccd13c430d3611e030cbfadd77c"
+      "url": "https://github.com/fermyon/spin-gh-plugin/releases/download/v0.0.5/gh-0.0.5-linux-amd64.tar.gz",
+      "sha256": "2cf6a20dea28fe1eefb5492cd6d2c53290779b3777c4715e3980a58268b7a2ca"
     }
   ]
 }
