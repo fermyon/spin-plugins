@@ -1,46 +1,46 @@
 {
   "name": "kube",
-  "description": "A plugin to manage Spin apps in Kubernetes",
+  "description": "A plugin to manage spin apps",
   "homepage": "https://github.com/spinkube/spin-plugin-kube",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "spinCompatibility": ">=2.3.1",
   "license": "Apache-2.0",
   "packages": [
     {
-      "os": "macos",
-      "arch": "amd64",
-      "url": "https://github.com/spinkube/spin-plugin-kube/releases/download/v0.3.0/spin-plugin-kube-0.3.0-darwin-amd64.tar.gz",
-      "sha256": "e109a6e2ac9bc253a9f6fa940082dccb10f574ff79daf74b043ba800e8a4eba3"
-    },
-    {
-      "os": "macos",
-      "arch": "aarch64",
-      "url": "https://github.com/spinkube/spin-plugin-kube/releases/download/v0.3.0/spin-plugin-kube-0.3.0-darwin-arm64.tar.gz",
-      "sha256": "025009e3cbdbf5e4ae63a39791bc798b775a76d70f973da68f19e84350acb831"
-    },
-    {
       "os": "linux",
       "arch": "amd64",
-      "url": "https://github.com/spinkube/spin-plugin-kube/releases/download/v0.3.0/spin-plugin-kube-0.3.0-linux-amd64.tar.gz",
-      "sha256": "a772c306610b1f120c07e68ad6930df2792d7bf7212e64fdefc5a66d1885513b"
+      "url": "https://github.com/spinkube/spin-plugin-kube/releases/download/v0.3.1/spin-plugin-kube-0.3.1-linux-amd64.tar.gz",
+      "sha256": "0f0e4586af8eb69ab007915c5ef4f7febbc4f50f39e4c0599ee2b4fcdf42ba45"
     },
     {
       "os": "linux",
       "arch": "aarch64",
-      "url": "https://github.com/spinkube/spin-plugin-kube/releases/download/v0.3.0/spin-plugin-kube-0.3.0-linux-arm64.tar.gz",
-      "sha256": "5e116a6a919b46f7202e71f15d392a7771caff242fd79734253d77c071d22ff2"
+      "url": "https://github.com/spinkube/spin-plugin-kube/releases/download/v0.3.1/spin-plugin-kube-0.3.1-linux-arm64.tar.gz",
+      "sha256": "cf0c0067d4a1e8a6717054e9d7dc13c82c08d74656fb3c0fae4d15c7676d819e"
+    },
+    {
+      "os": "macos",
+      "arch": "aarch64",
+      "url": "https://github.com/spinkube/spin-plugin-kube/releases/download/v0.3.1/spin-plugin-kube-0.3.1-darwin-arm64.tar.gz",
+      "sha256": "b7736f0ec7c256aa348970f12fc751bbafa0dbed99de446d90627b0a04f01b7f"
+    },
+    {
+      "os": "macos",
+      "arch": "amd64",
+      "url": "https://github.com/spinkube/spin-plugin-kube/releases/download/v0.3.1/spin-plugin-kube-0.3.1-darwin-amd64.tar.gz",
+      "sha256": "e45b7423ba1a1baed3f09ff50c4d833b58af1d15f009eafc91440ab8e9f5a52b"
     },
     {
       "os": "windows",
       "arch": "amd64",
-      "url": "https://github.com/spinkube/spin-plugin-kube/releases/download/v0.3.0/spin-plugin-kube-0.3.0-windows-amd64.tar.gz",
-      "sha256": "f2f68650ecf313eaea9ed8bf2c02d0a4cff54db0bbc15101a59a8b5156f5ea06"
+      "url": "https://github.com/spinkube/spin-plugin-kube/releases/download/v0.3.1/spin-plugin-kube-0.3.1-windows-amd64.tar.gz",
+      "sha256": "b3977a60958ef86e36b72637438d518690f3b951621bfd72ec63e8a9b9da9a94"
     },
     {
       "os": "windows",
       "arch": "aarch64",
-      "url": "https://github.com/spinkube/spin-plugin-kube/releases/download/v0.3.0/spin-plugin-kube-0.3.0-windows-arm64.tar.gz",
-      "sha256": "b1c891b6c1792019b7ed153aaa1905165aae51659752c3093b7078074935f903"
+      "url": "https://github.com/spinkube/spin-plugin-kube/releases/download/v0.3.1/spin-plugin-kube-0.3.1-windows-arm64.tar.gz",
+      "sha256": "fd209c3ed24c0580260abd311d2aa2d846cd8fab4046a1b06edd28039bf7c68f"
     }
   ]
 }
