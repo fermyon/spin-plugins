@@ -1,0 +1,40 @@
+{
+    "name": "otel",
+    "description": "A plugin to make working with OTel in Spin easy",
+    "homepage": "https://github.com/fermyon/otel-plugin",
+    "version": "0.1.2",
+    "spinCompatibility": ">=2.5",
+    "license": "Apache-2.0",
+    "packages": [
+      {
+        "os": "windows",
+        "arch": "amd64",
+        "url": "https://github.com/fermyon/otel-plugin/releases/download/v0.1.2/otel-0.1.2-windows-amd64.tar.gz",
+        "sha256": "d0bc393d9744610bf27d82c42c16ce1651a227fa90ece2c94e778a6c938f1369"
+      },
+      {
+        "os": "macos",
+        "arch": "aarch64",
+        "url": "https://github.com/fermyon/otel-plugin/releases/download/v0.1.2/otel-0.1.2-macos-aarch64.tar.gz",
+        "sha256": "cc0f3fa69e89c34564a5d6822ff0eb588ff6eacb9dd00359db5a93c69ed48f9d"
+      },
+      {
+        "os": "linux",
+        "arch": "aarch64",
+        "url": "https://github.com/fermyon/otel-plugin/releases/download/v0.1.2/otel-0.1.2-linux-aarch64.tar.gz",
+        "sha256": "9937bf1ce9ed003226c505cb65ab2e24c80a8e27557b977a11e956d8c568a1ff"
+      },
+      {
+        "os": "macos",
+        "arch": "amd64",
+        "url": "https://github.com/fermyon/otel-plugin/releases/download/v0.1.2/otel-0.1.2-macos-amd64.tar.gz",
+        "sha256": "fad95f3a14b6d59a2c9d1200add5921b70f1ba68471ad4d9b04b34f714e35bd6"
+      },
+      {
+        "os": "linux",
+        "arch": "amd64",
+        "url": "https://github.com/fermyon/otel-plugin/releases/download/v0.1.2/otel-0.1.2-linux-amd64.tar.gz",
+        "sha256": "996460b69e919e047084124b87900c80bffb83912332360cc1a1e3234a2e017e"
+      }
+    ]
+  }
