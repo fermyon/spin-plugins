@@ -2,33 +2,33 @@
   "name": "gh",
   "description": "Generates GitHub Actions for Spin Apps",
   "homepage": "https://github.com/fermyon/spin-gh-plugin",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "spinCompatibility": ">=2.0.0",
   "license": "Apache-2.0",
   "packages": [
     {
       "os": "linux",
       "arch": "aarch64",
-      "url": "https://github.com/fermyon/spin-gh-plugin/releases/download/v0.0.5/gh-0.0.5-linux-aarch64.tar.gz",
-      "sha256": "aa9d31af478a4b61e93579a291e57b5d9914b47989123d4bfabb53eb6bb96be9"
+      "url": "https://github.com/fermyon/spin-gh-plugin/releases/download/v0.0.6/gh-0.0.6-linux-aarch64.tar.gz",
+      "sha256": "40d47fb061e8208d5743a3c21ed13e8b25f26a8e6341ecef8d9da5ebe61d8037"
     },
     {
       "os": "macos",
       "arch": "amd64",
-      "url": "https://github.com/fermyon/spin-gh-plugin/releases/download/v0.0.5/gh-0.0.5-macos-amd64.tar.gz",
-      "sha256": "8a83a8b96b7c2741451c90a46b1c3a400cbd4fa4a1f46f9081810ac47ae56892"
+      "url": "https://github.com/fermyon/spin-gh-plugin/releases/download/v0.0.6/gh-0.0.6-macos-amd64.tar.gz",
+      "sha256": "a143dfcbcfb3983f2d03022bc7bdd0397e2af58e77595c327214de22917808e0"
     },
     {
       "os": "macos",
       "arch": "aarch64",
-      "url": "https://github.com/fermyon/spin-gh-plugin/releases/download/v0.0.5/gh-0.0.5-macos-aarch64.tar.gz",
-      "sha256": "e1ae5ae19b5adde03dcf6f4e63be357f6ee933d2a476727f14d48f2b4f46137f"
+      "url": "https://github.com/fermyon/spin-gh-plugin/releases/download/v0.0.6/gh-0.0.6-macos-aarch64.tar.gz",
+      "sha256": "b65a67ebce5b7f6fc51d22b5111e21bb1ea28771506a0abb9b3b274677242b31"
     },
     {
       "os": "linux",
       "arch": "amd64",
-      "url": "https://github.com/fermyon/spin-gh-plugin/releases/download/v0.0.5/gh-0.0.5-linux-amd64.tar.gz",
-      "sha256": "2cf6a20dea28fe1eefb5492cd6d2c53290779b3777c4715e3980a58268b7a2ca"
+      "url": "https://github.com/fermyon/spin-gh-plugin/releases/download/v0.0.6/gh-0.0.6-linux-amd64.tar.gz",
+      "sha256": "05142ebb389126e29098ce83e24fe036636ed988534f41e4cea1ff96c3feb959"
     }
   ]
 }
