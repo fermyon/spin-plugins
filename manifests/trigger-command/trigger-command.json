@@ -1,39 +1,40 @@
 {
-  "name": "trigger-command",
-  "description": "A Spin trigger that executes the WASI main function of a component.",
-  "version": "0.2.0",
-  "spinCompatibility": ">=2.0",
-  "license": "Apache-2.0",
-  "packages": [
-    {
-      "os": "linux",
-      "arch": "aarch64",
-      "url": "https://github.com/fermyon/spin-trigger-command/releases/download/v0.2.0/trigger-command-0.2-linux-aarch64.tar.gz",
-      "sha256": "6ed8a6eb3cafeac150b62a03ca46cc7e267352ccc267d4d3ef3f757fe653d9f8"
-    },
-    {
-      "os": "linux",
-      "arch": "amd64",
-      "url": "https://github.com/fermyon/spin-trigger-command/releases/download/v0.2.0/trigger-command-0.2-linux-amd64.tar.gz",
-      "sha256": "11bc757d82f273dd0d3848180935bb6cd7cbc824a73d401c33915d8ecd32a79a"
-    },
-    {
-      "os": "windows",
-      "arch": "amd64",
-      "url": "https://github.com/fermyon/spin-trigger-command/releases/download/v0.2.0/trigger-command-0.2-windows-amd64.tar.gz",
-      "sha256": "4b87700234811d36b18f9301a58c9868eb1d075e96c58588c4067c19bb251b6d"
-    },
-    {
-      "os": "macos",
-      "arch": "amd64",
-      "url": "https://github.com/fermyon/spin-trigger-command/releases/download/v0.2.0/trigger-command-0.2-macos-amd64.tar.gz",
-      "sha256": "9a8fe0aa055cfca33b35ef5461b9a7ee07d4ec1931e3f398a410e5e25b9b118a"
-    },
-    {
-      "os": "macos",
-      "arch": "aarch64",
-      "url": "https://github.com/fermyon/spin-trigger-command/releases/download/v0.2.0/trigger-command-0.2-macos-aarch64.tar.gz",
-      "sha256": "4fd835ef6e10138a33c44c0f9a849e3a0253e66b5e699730498ac221921c34d4"
-    }
-  ]
-}
+    "name": "trigger-command",
+    "description": "A Spin trigger that executes the WASI main function of a component.",
+    "version": "0.2.1",
+    "spinCompatibility": ">=2.0",
+    "license": "Apache-2.0",
+    "packages": [
+      {
+        "os": "linux",
+        "arch": "aarch64",
+        "url": "https://github.com/fermyon/spin-trigger-command/releases/download/v0.2.1/trigger-command-0.2.1-linux-aarch64.tar.gz",
+        "sha256": "7dd8ccf698074d2e30e9b5f54036678c55465fe850b80e045f5b1489ed81e29c"
+      },
+      {
+        "os": "linux",
+        "arch": "amd64",
+        "url": "https://github.com/fermyon/spin-trigger-command/releases/download/v0.2.1/trigger-command-0.2.1-linux-amd64.tar.gz",
+        "sha256": "d5b65b7c610ff4516ec9dd4aebf17007c4b2bc6696317a627a0b32b44868258e"
+      },
+      {
+        "os": "windows",
+        "arch": "amd64",
+        "url": "https://github.com/fermyon/spin-trigger-command/releases/download/v0.2.1/trigger-command-0.2.1-windows-amd64.tar.gz",
+        "sha256": "c28c53053c07962701f8b5dcb7dfccd2e2a1c57decb36d2b2a1252f11065d861"
+      },
+      {
+        "os": "macos",
+        "arch": "amd64",
+        "url": "https://github.com/fermyon/spin-trigger-command/releases/download/v0.2.1/trigger-command-0.2.1-macos-amd64.tar.gz",
+        "sha256": "44f27e045b2b2f8576701bc07efd3d9c405031d898b6da704156394f476d679a"
+      },
+      {
+        "os": "macos",
+        "arch": "aarch64",
+        "url": "https://github.com/fermyon/spin-trigger-command/releases/download/v0.2.1/trigger-command-0.2.1-macos-aarch64.tar.gz",
+        "sha256": "0ff80da0fadc8ba7e0fbbeee5bf10e8387d1688853aa1bab0cb91036452b3250"
+      }
+    ]
+  }
+  

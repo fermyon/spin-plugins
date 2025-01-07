@@ -1,0 +1,39 @@
+{
+  "name": "trigger-sqs",
+  "description": "A Spin trigger for Amazon SQS events",
+  "version": "0.8.0",
+  "spinCompatibility": ">=2.2",
+  "license": "Apache-2.0",
+  "packages": [
+    {
+      "os": "linux",
+      "arch": "aarch64",
+      "url": "https://github.com/fermyon/spin-trigger-sqs/releases/download/v0.8.0/trigger-sqs-0.8-linux-aarch64.tar.gz",
+      "sha256": "b45f15767f1af37368ebd3492e0ec073fa6c3218317b8b2d33bec709ad710650"
+    },
+    {
+      "os": "linux",
+      "arch": "amd64",
+      "url": "https://github.com/fermyon/spin-trigger-sqs/releases/download/v0.8.0/trigger-sqs-0.8-linux-amd64.tar.gz",
+      "sha256": "335d35341661771ad27387ce7541f3acb017f4c79fd2f1e6d711248f99d9ab84"
+    },
+    {
+      "os": "macos",
+      "arch": "amd64",
+      "url": "https://github.com/fermyon/spin-trigger-sqs/releases/download/v0.8.0/trigger-sqs-0.8-macos-amd64.tar.gz",
+      "sha256": "bbb236bd78daf16246664a984fe5978d583e60b486afc16c6a0cb8aa4a6cb8e4"
+    },
+    {
+      "os": "macos",
+      "arch": "aarch64",
+      "url": "https://github.com/fermyon/spin-trigger-sqs/releases/download/v0.8.0/trigger-sqs-0.8-macos-aarch64.tar.gz",
+      "sha256": "bc2297d808193d0c8795430dc16f5268a7e7e2ecb57ffbbe614a7e91b335e896"
+    },
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "url": "https://github.com/fermyon/spin-trigger-sqs/releases/download/v0.8.0/trigger-sqs-0.8-windows-amd64.tar.gz",
+      "sha256": "407d411d67d1d186a19b9d20fb4b2d4d99faa67a62f71e46d6500de8311a2974"
+    }
+  ]
+}
