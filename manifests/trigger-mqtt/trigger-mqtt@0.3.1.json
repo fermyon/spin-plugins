@@ -1,0 +1,40 @@
+{
+    "name": "trigger-mqtt",
+    "description": "A Spin trigger for MQTT events",
+    "version": "0.3.1",
+    "spinCompatibility": ">=2.0",
+    "license": "MIT",
+    "packages": [
+      {
+        "os": "windows",
+        "arch": "amd64",
+        "url": "https://github.com/spinkube/spin-trigger-mqtt/releases/download/v0.3.1/trigger-mqtt-0.3.1-windows-amd64.tar.gz",
+        "sha256": "f1df9a08bdcd10252d2b799677c6be096d82383b7ef1aa0e13683eff4a070e21"
+      },
+      {
+        "os": "linux",
+        "arch": "amd64",
+        "url": "https://github.com/spinkube/spin-trigger-mqtt/releases/download/v0.3.1/trigger-mqtt-0.3.1-linux-amd64.tar.gz",
+        "sha256": "8b59566660db2535ceff703dbd212fb50384197f5a5b73acb37b0299c3d97fde"
+      },
+      {
+        "os": "macos",
+        "arch": "aarch64",
+        "url": "https://github.com/spinkube/spin-trigger-mqtt/releases/download/v0.3.1/trigger-mqtt-0.3.1-macos-aarch64.tar.gz",
+        "sha256": "06f96c95147752be3968be6e0be228e4c499b3a74d8ba48f34513ef1c6f547f1"
+      },
+      {
+        "os": "linux",
+        "arch": "aarch64",
+        "url": "https://github.com/spinkube/spin-trigger-mqtt/releases/download/v0.3.1/trigger-mqtt-0.3.1-linux-aarch64.tar.gz",
+        "sha256": "518b9ce2d9f30192269ff959a5e1343e0cd3deb23ee5c4622f53ec025764ab07"
+      },
+      {
+        "os": "macos",
+        "arch": "amd64",
+        "url": "https://github.com/spinkube/spin-trigger-mqtt/releases/download/v0.3.1/trigger-mqtt-0.3.1-macos-amd64.tar.gz",
+        "sha256": "3937e29308fc384980fd2601da76b8ff1be9aa5b00dbf25df56974f5c9480d0e"
+      }
+    ]
+  }
+  
